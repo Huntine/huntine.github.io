@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Huntine</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://huntine.cn/"/>
+  <updated>2020-01-28T07:10:07.894Z</updated>
+  <id>http://huntine.cn/</id>
+  
+  <author>
+    <name>Huntine</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>sadsf</title>
+    <link href="http://huntine.cn/2020/01/28/sadsf/"/>
+    <id>http://huntine.cn/2020/01/28/sadsf/</id>
+    <published>2020-01-28T07:02:41.000Z</published>
+    <updated>2020-01-28T07:10:07.894Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开始写博客啦</title>
+    <link href="http://huntine.cn/2020/01/28/%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2%E5%95%A6/"/>
+    <id>http://huntine.cn/2020/01/28/%E5%BC%80%E5%A7%8B%E5%86%99%E5%8D%9A%E5%AE%A2%E5%95%A6/</id>
+    <published>2020-01-28T06:26:29.000Z</published>
+    <updated>2020-01-28T07:10:07.894Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
